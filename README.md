@@ -1,5 +1,7 @@
 ﻿# imionailoginy
-OMG jaki tu budrel ;)
+
+
+Aneta Zolech zolecha
 Aneta zolecha
 Piotr Stankiewicz, pstank
 Aneta Zolech zolecha hobby
@@ -9,6 +11,5 @@ Marcin Hoinka  hobby
 Łukasz Janicki
 Rafał Perkowski rperkow
 Łukasz Janicki
-test
 Grzegorz Wałęka gwaleka
 Miś Colargol mcolar
