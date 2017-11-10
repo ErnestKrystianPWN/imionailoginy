@@ -1,3 +1,5 @@
-# imionailoginy
-Aneta zolecha
+Aneta Zolech zolecha
+
+Dariusz Górniakowski dziadzia
+
 Łukasz Janicki
