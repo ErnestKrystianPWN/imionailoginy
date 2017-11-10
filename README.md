@@ -1,6 +1,6 @@
 # imionailoginy
 
-Aneta Zolech zolecha
+Aneta Zolech zolecha hobby
 
 Dariusz Górniakowski dziadzia
 
