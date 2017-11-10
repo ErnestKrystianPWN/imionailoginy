@@ -1,2 +1,2 @@
 # imionailoginy
-Aneta zolecha
+Aneta Zolech zolecha
