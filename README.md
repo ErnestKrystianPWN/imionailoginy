@@ -11,5 +11,4 @@ Rafał Perkowski rperkow
 Łukasz Janicki
 test
 Grzegorz Wałęka gwaleka
-
-
+Miś Colargol mcolar
